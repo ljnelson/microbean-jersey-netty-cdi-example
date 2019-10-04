@@ -20,7 +20,7 @@ other projects working in concert:
 
 To demonstrate the application, clone this repository, run `mvn
 package` and then `java -jar
-target/microbean-jersey-netty-example-0.0.2-SNAPSHOT.jar`.
+target/microbean-jersey-netty-example-0.0.4-SNAPSHOT.jar`.
 
 You'll note that all this project defines is a Jakarta RESTful Web
 Services `Application` subclass and a root resource class, but it is
