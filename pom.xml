@@ -4,7 +4,7 @@
 
   <groupId>io.github.ljnelson</groupId>
   <artifactId>microbean-jersey-netty-example</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
 
   <parent>
     <groupId>org.microbean</groupId>
@@ -22,7 +22,7 @@
     <connection>scm:git:git@github.com:ljnelson/${project.artifactId}.git</connection>
     <developerConnection>scm:git:git@github.com:ljnelson/${project.artifactId}.git</developerConnection>
     <url>https://github.com/ljnelson/${project.artifactId}/</url>
-    <tag>HEAD</tag>
+    <tag>v0.0.1</tag>
   </scm>
 
   <organization>
